@@ -1221,24 +1221,3 @@ bottom: 200px;
     left:1110px;
     bottom:180px;
 }
-@media screen and (max-width:800px){
-    body {
-        font-size: 12px;
-    
-
-    }
-    
-    
-    .navbar{
-        position: sticky;
-        top: 0;
-        justify-content: space-evenly;
-        z-index: 1;
-        color:black;
-        background-color: white;
-    }
-    
-}
-
-
-    
